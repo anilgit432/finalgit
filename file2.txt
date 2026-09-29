@@ -1,0 +1,2 @@
+gitcommands i learned
+git init,git add,git commit,git push etc
