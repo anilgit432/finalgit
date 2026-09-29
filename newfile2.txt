@@ -1,0 +1,2 @@
+practicing git branch,git merge
+added new file2
